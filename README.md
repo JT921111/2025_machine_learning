@@ -8,3 +8,4 @@
 + [📝](https://hackmd.io/@teshenglin/2025_ML_week_5_AS "Week 5 questions"): [Week 5](Week_5)
 + [📝](https://hackmd.io/@teshenglin/2025_ML_week_6_AS "Week 6 questions"): [Week 6](Week_6)
 + [📝](https://hackmd.io/@teshenglin/2025_ML_week_7_AS "Week 7 questions"): [Week 7](Week_7)
++ [📝](https://hackmd.io/@teshenglin/2025_ML_week_8_AS "Week 8 questions"): [Week 8](Week_8)
